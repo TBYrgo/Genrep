@@ -11,3 +11,4 @@ for j in range(1,2000,2):
         uddatal += j
 
 print(f'Differensen = {jamnatal-uddatal}')
+print("Hello")
